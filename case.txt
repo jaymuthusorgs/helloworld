@@ -1,1 +1,1 @@
-hello case 1
+HelloCase1
